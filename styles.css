@@ -92,7 +92,6 @@ button:disabled {
     min-height: 600px;
     border: 0;
     margin: auto;
-    background-color: #72ddf7;
 }
 .orderReady {
     visibility: hidden;
