@@ -130,7 +130,7 @@ function addTopping() {
                 }
             }
             else{
-                for (let i=0; i< colors,length; i++){
+                for (let i=0; i< colors.length; i++){
                     toppings[i].style.backgroundColor = colors[i]
                 }
             }
